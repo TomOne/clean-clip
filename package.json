@@ -1,0 +1,28 @@
+{
+  "name": "clean-clip",
+  "version": "0.0.1-beta",
+  "description": "Removes unnecessary HTML attributes and elements from the Windows clipboard and pastes it.",
+  "main": "clean-html.js",
+  "keywords": [
+    "clipboard",
+    "windows",
+    "autohotkey",
+    "html",
+    "copy",
+    "paste"
+  ],
+  "author": "TomOne",
+  "license": "ISC",
+  "dependencies": {
+    "sanitize-html": "1.14.1"
+  },
+  "homepage": "https://github.com/TomOne/clean-clip",
+  "bugs": "https://github.com/TomOne/clean-clip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TomOne/clean-clip.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
